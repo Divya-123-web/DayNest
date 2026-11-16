@@ -1,17 +1,42 @@
-# daynest
+🌿 DayNest – Daily Productivity App
 
-A new Flutter project.
+DayNest is a modern Flutter-based productivity application designed to help users organize their daily tasks, manage personal notes, and improve productivity through a simple and user-friendly interface.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+- 🔐 User Authentication (Email & Password)
+- 📝 Create and Manage Notes
+- ✅ Daily Task Management
+- 📅 Organize Daily Activities
+- ☁️ Firebase Integration
+- 🔄 Real-time Data Synchronization (Planned)
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Provider (if implemented)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 Supported Platforms
+
+- Android
+- iOS
+- Web
+
+🚀 Project Status
+
+Phase 4 – Firebase Setup Completed.
+
+Phase 5 – Firebase Integration (Upcoming).
+
+👩‍💻 Developer
+
+Divya Dharshini
+
+GitHub: https://github.com/Divya-123-web
+
+🎯 Project Goal
+
+To build a simple and efficient productivity application that helps users manage everyday tasks and notes in one place.
