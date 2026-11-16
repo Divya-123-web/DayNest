@@ -29,7 +29,7 @@ DayNest is a modern Flutter-based productivity application designed to help user
 
 Phase 4 – Firebase Setup Completed.
 
-Phase 5 – Firebase Integration (Upcoming).
+Phase 5 – Firebase Integration Completed.
 
 👩‍💻 Developer
 
