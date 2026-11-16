@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004173967916",
+    "project_id": "daynest-91c65",
+    "storage_bucket": "daynest-91c65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004173967916:android:db742d912d3ff0eecc8789",
+        "android_client_info": {
+          "package_name": "com.example.daynest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt4iUt2pmT_AuoL1TdfWwWLyjjQhew5ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
